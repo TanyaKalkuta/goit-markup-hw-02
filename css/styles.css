@@ -96,7 +96,7 @@ body {
 .logo {
   font-family: Raleway;
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.192;
   letter-spacing: 0.03em;
@@ -204,13 +204,12 @@ body {
   text-align: center;
 }
 
-address {
-  font-style: normal;
-}
 .addres {
   color: var(--white-cl);
 }
-
+.addres-style {
+  font-style: normal;
+}
 .dark-bg {
   background-color: var(--hero-cl);
 }
@@ -220,7 +219,7 @@ address {
 }
 
 .projects {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
